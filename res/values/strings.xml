@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fuel Calculator (UK)</string>
+    <string name="action_settings">Settings</string>
+    <string name="home_intro">Welcome to Fuel Calculator UK edition!</string>
+    <string name="title_activity_mpg__calculation">MPG Calculation</string>
+    <string name="mpgTitle">MPG Calculator</string>
+    <string name="mpgIntro">Please enter the distance covered, litres used and price per litre (Optional).</string>
+    <string name="enter_miles_covered">Enter the distance in miles</string>
+    <string name="enter_litres">Enter the number of litres used</string>
+    <string name="enter_price">Enter the price per litre of fuel</string>
+    <string name="distance_label">Distance Covered (Miles)</string>
+    <string name="litres_label">Litres Used</string>
+    <string name="price_label">Price Per Litre (Pence)</string>
+    <string name="title_activity_journey__calculator">Fuel Calculator (UK)</string>
+    <string name="journeyTitle">Journey Cost Calculator</string>
+    <string name="enter_mpg">Enter the cars MPG</string>
+    <string name="mpg_label">Fuel consumption (MPG)</string>
+    <string name="journeyIntro">Please enter the distance you will cover, the fuel consumption for the journey and the price per litre</string>
+    <string name="title_activity_history">History</string>
+    <string name="title_activity_data_list_view">Fuel Calculator (UK)</string>
+    <string name="log">Journey Log</string>
+
+</resources>
